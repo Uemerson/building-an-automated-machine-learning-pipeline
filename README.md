@@ -1,2 +1,2 @@
-# building-an-automated-machine-learning-pipeline
+# About
 Building an Automated Machine Learning Pipeline
